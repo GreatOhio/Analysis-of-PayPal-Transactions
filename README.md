@@ -136,6 +136,7 @@ The dataset, "Paypal_Transactions3.csv", contains 200 transaction records with t
             Expand to International Markets:
             
             Since 95.5% of transactions are from the US, PayPal should focus on growing its UK and Australian markets.
+   
             Monitor Chargebacks Closely:
             
             Even though chargebacks are only 1.5%, they can indicate potential fraud or disputes. A fraud detection system should be in place.
