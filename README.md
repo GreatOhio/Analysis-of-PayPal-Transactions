@@ -39,27 +39,41 @@ The dataset, "Paypal_Transactions3.csv", contains 200 transaction records with t
             Auth Code – A unique authorization code for security purposes.
             
 4. Methodology (Tools, Techniques, and Process Used)
+   
 Tools Used:
+
             Python libraries: pandas, numpy, and datetime
+            
             Jupyter Notebook for data analysis and visualization
+            
             CSV file processing using pandas
-            Techniques & Process:
+            
+Techniques & Process:
+
             Data Loading & Cleaning
 
-The dataset is loaded using pandas.read_csv().
-Irrelevant columns like "Transaction_ID" and "Auth_code" are dropped.
-Missing values in "Transaction_Notes" are filled with "N/A".
-The "Day" column is converted into a datetime format.
-Data Exploration & Transformation
+                        The dataset is loaded using pandas.read_csv().
+                        
+                        Irrelevant columns like "Transaction_ID" and "Auth_code" are dropped.
+                        
+                        Missing values in "Transaction_Notes" are filled with "N/A".
+                        
+                        The "Day" column is converted into a datetime format.
+                        
+            Data Exploration & Transformation
 
-The project analyzes successful transactions only (Success == 1).
-Transaction trends over time are examined using .max() and .min().
-Categorical values like "Type", "Transaction_Type", "Country", and "Source" are analyzed for trends.
-Statistical Analysis & Insights Extraction
+                        The project analyzes successful transactions only (Success == 1).
+                        
+                        Transaction trends over time are examined using .max() and .min().
+                        
+                        Categorical values like "Type", "Transaction_Type", "Country", and "Source" are analyzed for trends.
+                        
+            Statistical Analysis & Insights Extraction
 
-Summary statistics are calculated using .describe().
-The distribution of transaction types, sources, and country-based transactions is analyzed.
-
+                        Summary statistics are calculated using .describe().
+                        
+                        The distribution of transaction types, sources, and country-based transactions is analyzed.
+                        
 
 
 
