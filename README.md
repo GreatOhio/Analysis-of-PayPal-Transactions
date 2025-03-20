@@ -13,6 +13,32 @@ Analyzing transaction trends across different regions, platforms, and payment ty
 
 Providing actionable insights to improve financial decision-making.
 
+Data Source:
+The dataset, "Paypal_Transactions3.csv", contains 200 transaction records with the following key fields:
+
+Transaction ID – A unique identifier for each transaction.
+
+Type – The nature of the transaction (e.g., Charge, Refund).
+
+Transaction Type – Categorization into "Goods and Services" or "Friends & Family".
+
+Customer Name – The name of the customer involved.
+
+Total – The transaction amount.
+
+Success – Whether the transaction was successful (1) or not (0).
+
+Day – The date of the transaction.
+
+Transaction Notes – Additional details about the transaction.
+
+Source – The platform used for the transaction (Tablet, Phone, Desktop).
+
+Country – The country where the transaction originated.
+
+Auth Code – A unique authorization code for security purposes.
+
+
 
 
 
