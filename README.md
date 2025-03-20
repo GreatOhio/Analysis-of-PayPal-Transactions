@@ -76,45 +76,72 @@ Techniques & Process:
                         
 5. Key Insights (Trends and Findings)
    
-            Transaction Success Rate is High
+   Transaction Success Rate is High
    
-                        97.5% of all transactions were successful, indicating a smooth payment process.
-               
-                        Only 2.5% of transactions failed, which is relatively low.
+            97.5% of all transactions were successful, indicating a smooth payment process.
    
-            Charge Transactions Dominate
+            Only 2.5% of transactions failed, which is relatively low.
    
-                        88.5% of transactions are "Charge", meaning most transactions involve standard payments.
+   Charge Transactions Dominate
+   
+            88.5% of transactions are "Charge", meaning most transactions involve standard payments.
 
-                        Refunds account for 10%, while chargebacks make up only 1.5%, indicating minimal disputes.
-   
-            Goods & Services Transactions are More Common
-   
-                        63% of transactions fall under "Goods and Services", while 37% are "Friends & Family" transactions.
+            Refunds account for 10%, while chargebacks make up only 1.5%, indicating minimal disputes.
 
-                        This suggests that PayPal is primarily used for business payments in this dataset.
+   Goods & Services Transactions are More Common
    
-            Most Transactions are from the US
-   
-                        95.5% of transactions originate from the United States (US).
+            63% of transactions fall under "Goods and Services", while 37% are "Friends & Family" transactions.
 
-                        The UK accounts for 4%, while Australia has only one transaction.
+            This suggests that PayPal is primarily used for business payments in this dataset.
+   
+   Most Transactions are from the US
+   
+            95.5% of transactions originate from the United States (US).
 
-                        This suggests that the dataset primarily represents PayPal users in the US market.
+            The UK accounts for 4%, while Australia has only one transaction.
+
+            This suggests that the dataset primarily represents PayPal users in the US market.
    
-            Desktop is the Most Used Platform
+   Desktop is the Most Used Platform
    
-                        64.5% of transactions were made on a desktop, compared to 25% on mobile phones and 10.5% on tablets.
+            64.5% of transactions were made on a desktop, compared to 25% on mobile phones and 10.5% on tablets.
+
+            This indicates that users prefer PayPal on desktop for financial transactions.
    
-                        This indicates that users prefer PayPal on desktop for financial transactions.
+   Transaction Amounts Range from $450 to $4,996
    
-            Transaction Amounts Range from $450 to $4,996
+            The average transaction amount is $3,144, with a standard deviation of $1,087.
+
+            The highest transaction recorded was $4,996, while the lowest was $450.
+
+            Most transactions fall within $2,256 – $3,995, suggesting mid-range payments are common.
    
-                        The average transaction amount is $3,144, with a standard deviation of $1,087.
+   3. Conclusion & Recommendations
    
-                        The highest transaction recorded was $4,996, while the lowest was $450.
-   
-                        Most transactions fall within $2,256 – $3,995, suggesting mid-range payments are common.
+      Conclusion:
+      
+            PayPal transactions in this dataset are highly successful (97.5%), showing strong reliability.
+      
+            Most payments are standard charges, with few refunds and chargebacks.
+      
+            Goods and Services transactions dominate, suggesting that business payments are a primary use case.
+      
+            Most users are from the US and prefer making transactions via desktop.
+      
+      Recommendations for PayPal / Business:
+      
+            Enhance Mobile Payment Experience:
+
+            Since only 25% of transactions happen on mobile, PayPal should improve mobile UX to increase engagement.
+            Expand to International Markets:
+            
+            Since 95.5% of transactions are from the US, PayPal should focus on growing its UK and Australian markets.
+            Monitor Chargebacks Closely:
+            
+            Even though chargebacks are only 1.5%, they can indicate potential fraud or disputes. A fraud detection system should be in place.
+            Target Business Users More:
+            
+            Since most transactions fall under "Goods & Services", PayPal should tailor more business-friendly features.
 
 
 
