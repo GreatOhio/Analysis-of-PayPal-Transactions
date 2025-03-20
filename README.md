@@ -40,7 +40,7 @@ The dataset, "Paypal_Transactions3.csv", contains 200 transaction records with t
             
 4. Methodology (Tools, Techniques, and Process Used)
 
-Tools Used:
+   Tools Used:
 
             Python libraries: pandas, numpy, and datetime
             
@@ -48,7 +48,7 @@ Tools Used:
             
             CSV file processing using pandas
             
-Techniques & Process:
+   Techniques & Process:
 
             Data Loading & Cleaning
 
@@ -139,6 +139,7 @@ Techniques & Process:
             Monitor Chargebacks Closely:
             
             Even though chargebacks are only 1.5%, they can indicate potential fraud or disputes. A fraud detection system should be in place.
+      
             Target Business Users More:
             
             Since most transactions fall under "Goods & Services", PayPal should tailor more business-friendly features.
