@@ -40,11 +40,11 @@ The dataset, "Paypal_Transactions3.csv", contains 200 transaction records with t
             
 4. Methodology (Tools, Techniques, and Process Used)
 Tools Used:
-Python libraries: pandas, numpy, and datetime
-Jupyter Notebook for data analysis and visualization
-CSV file processing using pandas
-Techniques & Process:
-Data Loading & Cleaning
+            Python libraries: pandas, numpy, and datetime
+            Jupyter Notebook for data analysis and visualization
+            CSV file processing using pandas
+            Techniques & Process:
+            Data Loading & Cleaning
 
 The dataset is loaded using pandas.read_csv().
 Irrelevant columns like "Transaction_ID" and "Auth_code" are dropped.
