@@ -116,7 +116,7 @@ The dataset, "Paypal_Transactions3.csv", contains 200 transaction records with t
 
             Most transactions fall within $2,256 – $3,995, suggesting mid-range payments are common.
    
-   3. Conclusion & Recommendations
+   6. Conclusion & Recommendations
    
       Conclusion:
       
