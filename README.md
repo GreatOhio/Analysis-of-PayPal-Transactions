@@ -115,7 +115,7 @@ The dataset, "Paypal_Transactions3.csv", contains 200 transaction records with t
             The highest transaction recorded was $4,996, while the lowest was $450.
 
             Most transactions fall within $2,256 – $3,995, suggesting mid-range payments are common.
-   
+
    6. Conclusion & Recommendations
    
       Conclusion:
