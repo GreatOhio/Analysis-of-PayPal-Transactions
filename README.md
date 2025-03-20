@@ -39,7 +39,7 @@ The dataset, "Paypal_Transactions3.csv", contains 200 transaction records with t
             Auth Code – A unique authorization code for security purposes.
             
 4. Methodology (Tools, Techniques, and Process Used)
-   
+
 Tools Used:
 
             Python libraries: pandas, numpy, and datetime
@@ -74,7 +74,47 @@ Techniques & Process:
                         
                         The distribution of transaction types, sources, and country-based transactions is analyzed.
                         
+5. Key Insights (Trends and Findings)
+   
+            Transaction Success Rate is High
+   
+                        97.5% of all transactions were successful, indicating a smooth payment process.
+               
+                        Only 2.5% of transactions failed, which is relatively low.
+   
+            Charge Transactions Dominate
+   
+                        88.5% of transactions are "Charge", meaning most transactions involve standard payments.
 
+                        Refunds account for 10%, while chargebacks make up only 1.5%, indicating minimal disputes.
+   
+            Goods & Services Transactions are More Common
+   
+                        63% of transactions fall under "Goods and Services", while 37% are "Friends & Family" transactions.
+
+                        This suggests that PayPal is primarily used for business payments in this dataset.
+   
+            Most Transactions are from the US
+   
+                        95.5% of transactions originate from the United States (US).
+
+                        The UK accounts for 4%, while Australia has only one transaction.
+
+                        This suggests that the dataset primarily represents PayPal users in the US market.
+   
+            Desktop is the Most Used Platform
+   
+                        64.5% of transactions were made on a desktop, compared to 25% on mobile phones and 10.5% on tablets.
+   
+                        This indicates that users prefer PayPal on desktop for financial transactions.
+   
+            Transaction Amounts Range from $450 to $4,996
+   
+                        The average transaction amount is $3,144, with a standard deviation of $1,087.
+   
+                        The highest transaction recorded was $4,996, while the lowest was $450.
+   
+                        Most transactions fall within $2,256 – $3,995, suggesting mid-range payments are common.
 
 
 
